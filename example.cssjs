@@ -1,0 +1,7 @@
+/*CSS*/
+.foo{
+	border:10px black solid;
+	border-radius: 50%;
+}
+/*JS*/
+alert("I am On");
